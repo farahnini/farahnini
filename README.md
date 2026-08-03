@@ -10,7 +10,7 @@ I'm a Researcher with a passion for programming. I enjoy coding and am always ea
 - Web Development: Laravel
 - Mobile Development: Ionic, Flutter
 - Data Science: Tensorflow, Pytorch, Pandas, OpenCV, Scikit Learn
-- Business Intelligenece tool: Tableau
+- Business Intelligence Tools: Tableau
 
 I'm always open to connecting and collaborating on interesting projects. Feel free to reach out to me via email at farahnini98@gmail.com.
 
